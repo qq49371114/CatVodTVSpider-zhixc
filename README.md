@@ -18,22 +18,19 @@
 
 
 ### 4.配置接口
-> FongMi的影视APP / TVBox 配置地址: https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/config.json
+> FongMi的影视APP 配置地址: https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/config.json
 >
-> FongMi的影视APP / TVBox 配置加速地址1: https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/config.json
+> FongMi的影视APP 配置加速地址1: https://ghproxy.cc/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/config.json
 >
-> FongMi的影视APP / TVBox 配置加速地址2: https://github.moeyy.xyz/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/config.json
+> FongMi的影视APP 配置加速地址2: https://github.moeyy.xyz/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/config.json
 
 
 
 ### 5.推荐的软件
 > 强烈推荐使用 FongMi 的影视，支持自动换源，非常强大，作者持续更新维护。其仓库地址：https://github.com/FongMi/TV
 > 
-> 俊版TVBox、takagen99版TVBox，安装包发布仓库：https://github.com/o0HalfLife0o/TVBoxOSC
-> 
-> 俊版仓库地址：https://github.com/q215613905/TVBoxOS
-> 
-> takagen99版仓库地址 https://github.com/takagen99/Box
+> 不推荐使用 TVBox，TVBox 代码比较乱，不好维护，弃坑了
+
 
 ### 6.关于直播(爬虫版)使用说明
 

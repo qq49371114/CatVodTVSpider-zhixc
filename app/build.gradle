@@ -41,6 +41,6 @@ dependencies {
     implementation "org.jsoup:jsoup:$jsoup_version"
     implementation "cn.wanghaomiao:JsoupXpath:$jsoupxpath_version"
     implementation "com.squareup.okhttp3:okhttp:$okhttp_version"
-    implementation 'com.google.code.gson:gson:2.8.6'
-    implementation 'com.google.net.cronet:cronet-okhttp:0.1.0'
+    implementation "com.google.code.gson:gson:$gson_version"
+    implementation "com.google.net.cronet:cronet-okhttp:$cronet_okhttp_version"
 }
